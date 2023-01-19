@@ -1,2 +1,2 @@
-# ClockApp
- This is an app that displays the current hour, date and time. 
+# Clock 
+ This is a clock software for tracking the accurate hour, date and time.
